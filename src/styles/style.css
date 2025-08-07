@@ -6,4 +6,13 @@
  --color-neutral-1: #f8fafc;
  --color-neutral-2: #24232b;
  --color-neutral-3: #13121a;
+
+    {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family:'Roboto Mono', monospace;
+        
+    }
+
 }
